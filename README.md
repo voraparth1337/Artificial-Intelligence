@@ -1,6 +1,7 @@
 # Artifical Interlligence
 
 This repo contains codes implemented during the AI practical sessions. 
+
 List :
 * Uninformed Search
   * BFS - Breadth First Search
